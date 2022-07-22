@@ -17,9 +17,9 @@ I'm Sahitya Edarada!
   
 📈**My Stats**
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Slakkimsetty&count_private=true&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=sahityaEdarada&count_private=true&show_icons=true&hide=contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slakkimsetty&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahityaEdarada&layout=compact)
 
 
 📫**Get In Touch**
